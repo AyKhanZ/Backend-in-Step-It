@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\SystemApp1\bin\Debug\net6.0\SystemApp1.exe
+C:\Users\HP\Desktop\SystemApp1\bin\Debug\net6.0\SystemApp1.deps.json
+C:\Users\HP\Desktop\SystemApp1\bin\Debug\net6.0\SystemApp1.runtimeconfig.json
+C:\Users\HP\Desktop\SystemApp1\bin\Debug\net6.0\SystemApp1.dll
+C:\Users\HP\Desktop\SystemApp1\bin\Debug\net6.0\SystemApp1.pdb
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.dll
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\refint\SystemApp1.dll
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.pdb
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\SystemApp1.genruntimeconfig.cache
+C:\Users\HP\Desktop\SystemApp1\obj\Debug\net6.0\ref\SystemApp1.dll

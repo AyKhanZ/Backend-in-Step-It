@@ -1,0 +1,84 @@
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.exe
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.deps.json
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.runtimeconfig.json
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.dll
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.pdb
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2_MarkupCompile.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2_MarkupCompile.lref
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.g.resources
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.AssemblyInfo.cs
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.dll
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\refint\WpfSystemApp2.dll
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.pdb
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.genruntimeconfig.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\ref\WpfSystemApp2.dll
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.CopyComplete
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\App.baml
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\View\HomeView.g.cs
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\HP\Desktop\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\View\HomeView.baml
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.exe
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.deps.json
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.runtimeconfig.json
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.dll
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.pdb
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\View\HomeView.g.cs
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2_MarkupCompile.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2_MarkupCompile.lref
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\App.baml
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\View\HomeView.baml
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.g.resources
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.AssemblyInfo.cs
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.CopyComplete
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.dll
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\refint\WpfSystemApp2.dll
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.pdb
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.genruntimeconfig.cache
+C:\Users\HP\Desktop\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\ref\WpfSystemApp2.dll
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.exe
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.deps.json
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.runtimeconfig.json
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.dll
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\WpfSystemApp2.pdb
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\View\HomeView.g.cs
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2_MarkupCompile.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2_MarkupCompile.lref
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\App.baml
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\View\HomeView.baml
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.g.resources
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.csproj.CopyComplete
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.dll
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\refint\WpfSystemApp2.dll
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.pdb
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\WpfSystemApp2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Git\New added Github\System programming\WpfSystemApp2\obj\Debug\net6.0-windows\ref\WpfSystemApp2.dll
