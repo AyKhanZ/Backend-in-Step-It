@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\bin\Debug\net6.0\CarsFactory.exe
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\bin\Debug\net6.0\CarsFactory.deps.json
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\bin\Debug\net6.0\CarsFactory.runtimeconfig.json
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\bin\Debug\net6.0\CarsFactory.dll
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\bin\Debug\net6.0\CarsFactory.pdb
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.AssemblyInfo.cs
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.dll
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\refint\CarsFactory.dll
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.pdb
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\CarsFactory.genruntimeconfig.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CarsFactory\CarsFactory\obj\Debug\net6.0\ref\CarsFactory.dll

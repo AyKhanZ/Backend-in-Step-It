@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cossacks", "Cossacks.csproj", "{368C24AC-A308-428A-A8D4-ECFA22AAAAE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368C24AC-A308-428A-A8D4-ECFA22AAAAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368C24AC-A308-428A-A8D4-ECFA22AAAAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368C24AC-A308-428A-A8D4-ECFA22AAAAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368C24AC-A308-428A-A8D4-ECFA22AAAAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79524D24-03B6-41AF-9AEC-C54DBCE02C7E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\bin\Debug\net6.0\Cossacks.exe
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\bin\Debug\net6.0\Cossacks.deps.json
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\bin\Debug\net6.0\Cossacks.runtimeconfig.json
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\bin\Debug\net6.0\Cossacks.dll
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\bin\Debug\net6.0\Cossacks.pdb
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.AssemblyInfo.cs
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.dll
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\refint\Cossacks.dll
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.pdb
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\Cossacks.genruntimeconfig.cache
+C:\Users\HP\Desktop\Pattern HWs\AbstractFactory\CossacksFactory\Cossacks\obj\Debug\net6.0\ref\Cossacks.dll
