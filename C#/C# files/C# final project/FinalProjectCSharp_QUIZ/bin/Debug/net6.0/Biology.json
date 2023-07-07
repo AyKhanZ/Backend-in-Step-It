@@ -1,0 +1,31 @@
+[
+    {
+        "question": "What does botany study ? ",
+        "answers": [
+            "a. air",
+            "b. fish",
+            "c. animals",
+            "d. plants"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "Who invented the piniciline? ",
+        "answers": [
+            "a. Pavlov",
+            "b. Fleming"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "Who coined the term 'cell'? ",
+        "answers": [
+            "a. Aykhan Zeynalov",
+            "b. Robert Quk",
+            "c. Charliz Darvin",
+            "d. Lui Paster"
+        ],
+        "TrueAnswer": "b"
+    }
+    
+]

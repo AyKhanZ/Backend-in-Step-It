@@ -1,0 +1,85 @@
+[
+    {
+        "question": "When did the Great Patriotic War end ? ",
+        "answers": [
+            "a. 1954",
+            "b. 1945"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "The year of the collapse of the USSR ? ",
+        "answers": [
+            "a. 1991",
+            "b. 2008"
+        ],
+        "TrueAnswer": "a"
+    },
+    {
+        "question": "When the accident at the Chernobyl nuclear power plant occurred ? ",
+        "answers": [
+            "a. 1980",
+            "b. 1986",
+            "c. 1999"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "Which of the cities is the largest in terms of population ? ",
+        "answers": [
+            "a. Karachi",
+            "b.Lagos",
+            "c.Tokyo",
+            "d.Stanbulu"
+        ],
+        "TrueAnswer": "a"
+    },
+    {
+        "question": "How many continents cross the equator ? ",
+        "answers": [
+            "a. 2",
+            "b. 3",
+            "c. 4",
+            "d. 6"
+        ],
+        "TrueAnswer": "a"
+    },
+    {
+        "question": "How many continents ? ",
+        "answers": [
+            "a. 4",
+            "b. 5",
+            "c. 6",
+            "d. 8"
+        ],
+        "TrueAnswer": "c"
+    },
+    {
+        "question": "What does botany study ? ",
+        "answers": [
+            "a. air",
+            "b. fish",
+            "c. animals",
+            "d. plants"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "Who invented the piniciline? ",
+        "answers": [
+            "a. Pavlov",
+            "b. Fleming"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "Who coined the term 'cell'? ",
+        "answers": [
+            "a. Aykhan Zeynalov",
+            "b. Robert Quk",
+            "c. Charliz Darvin",
+            "d. Lui Paster"
+        ],
+        "TrueAnswer": "b"
+    }
+]

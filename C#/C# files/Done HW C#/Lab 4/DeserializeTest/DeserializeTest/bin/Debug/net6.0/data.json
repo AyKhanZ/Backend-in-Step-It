@@ -1,0 +1,8 @@
+{"$type":"System.Collections.Generic.List`1[[DeserializeTest.Iserializable, DeserializeTest]], System.Private.CoreLib","$values":[{"$type":"DeserializeTest.Person, DeserializeTest","Name":"Aykhan","Surname":"Zeynalov","Age":18},{"$type":"DeserializeTest.Person, DeserializeTest","Name":"Omar","Surname":"Haciyev","Age":20}]}     {
+            "$type": "DeserializeTest.Person, DeserializeTest",
+            "Name": "Omar",
+            "Surname": "Haciyev",
+            "Age": 20
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\bin\Debug\net7.0\DeserializeTest.exe
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\bin\Debug\net7.0\DeserializeTest.deps.json
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\bin\Debug\net7.0\DeserializeTest.runtimeconfig.json
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\bin\Debug\net7.0\DeserializeTest.dll
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\bin\Debug\net7.0\DeserializeTest.pdb
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.csproj.AssemblyReference.cache
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.csproj.CopyComplete
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.dll
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\refint\DeserializeTest.dll
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.pdb
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\DeserializeTest.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\DeserializeTest\DeserializeTest\obj\Debug\net7.0\ref\DeserializeTest.dll

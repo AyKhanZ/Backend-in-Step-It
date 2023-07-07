@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\LinkApp\bin\Debug\net6.0-windows\LinkApp.exe
+C:\Users\HP\Desktop\LinkApp\bin\Debug\net6.0-windows\LinkApp.deps.json
+C:\Users\HP\Desktop\LinkApp\bin\Debug\net6.0-windows\LinkApp.runtimeconfig.json
+C:\Users\HP\Desktop\LinkApp\bin\Debug\net6.0-windows\LinkApp.dll
+C:\Users\HP\Desktop\LinkApp\bin\Debug\net6.0-windows\LinkApp.pdb
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.Form1.resources
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.dll
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\refint\LinkApp.dll
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.pdb
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\LinkApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\LinkApp\obj\Debug\net6.0-windows\ref\LinkApp.dll
+C:\Users\HP\Desktop\For fun\LinkApp\bin\Debug\net6.0-windows\LinkApp.exe
+C:\Users\HP\Desktop\For fun\LinkApp\bin\Debug\net6.0-windows\LinkApp.deps.json
+C:\Users\HP\Desktop\For fun\LinkApp\bin\Debug\net6.0-windows\LinkApp.runtimeconfig.json
+C:\Users\HP\Desktop\For fun\LinkApp\bin\Debug\net6.0-windows\LinkApp.dll
+C:\Users\HP\Desktop\For fun\LinkApp\bin\Debug\net6.0-windows\LinkApp.pdb
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.Form1.resources
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.dll
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\refint\LinkApp.dll
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.pdb
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\LinkApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\For fun\LinkApp\obj\Debug\net6.0-windows\ref\LinkApp.dll

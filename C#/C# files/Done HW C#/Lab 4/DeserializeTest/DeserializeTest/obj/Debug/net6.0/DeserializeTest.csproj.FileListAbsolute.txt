@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\bin\Debug\net6.0\DeserializeTest.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\bin\Debug\net6.0\DeserializeTest.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\bin\Debug\net6.0\DeserializeTest.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\bin\Debug\net6.0\DeserializeTest.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\bin\Debug\net6.0\DeserializeTest.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.csproj.CopyComplete
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\refint\DeserializeTest.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\DeserializeTest.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Lab 4\DeserializeTest\DeserializeTest\obj\Debug\net6.0\ref\DeserializeTest.dll

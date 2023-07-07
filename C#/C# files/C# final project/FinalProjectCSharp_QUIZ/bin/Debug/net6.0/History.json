@@ -1,0 +1,36 @@
+[
+    {
+        "question": "When did the Great Patriotic War end ? ",
+        "answers": [
+            "a. 1954",
+            "b. 1945"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "The year of the collapse of the USSR ? ",
+        "answers": [
+            "a. 1991",
+            "b. 2008"
+        ],
+        "TrueAnswer": "a"
+    },
+    {
+        "question": "When the accident at the Chernobyl nuclear power plant occurred ? ",
+        "answers": [
+            "a. 1980",
+            "b. 1986",
+            "c. 1999"
+        ],
+        "TrueAnswer": "b"
+    },
+    {
+        "question": "When did Kurt Kobeyn die ? ",
+        "answers": [
+            "a. 1967",
+            "b. 1960",
+            "c. 1976"
+        ],
+        "TrueAnswer": "a"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Which of the cities is the largest in terms of population ? ",
+        "answers": [
+            "a. Karachi",
+            "b.Lagos",
+            "c.Tokyo",
+            "d.Stanbulu"
+        ],
+        "TrueAnswer": "a"
+    },
+    {
+        "question": "How many continents cross the equator ? ",
+        "answers": [
+            "a. 2",
+            "b. 3",
+            "c. 4",
+            "d. 6"
+        ],
+        "TrueAnswer": "a"
+    },
+    {
+        "question": "How many continents ? ",
+        "answers": [
+            "a. 4",
+            "b. 5",
+            "c. 6",
+            "d. 8"
+        ],
+        "TrueAnswer": "c"
+    }
+]

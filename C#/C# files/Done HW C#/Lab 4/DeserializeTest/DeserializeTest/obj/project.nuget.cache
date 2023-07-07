@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjfE354ve4xtKkDcUuwFEpmnTI7CpspY6P2F3/yWsbuMo13K0RKE4fhzsl5cyGa/91NfsxXQKTkJ9miN8+18YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Programming Step IT\\C#\\C# files\\Lab 4\\DeserializeTest\\DeserializeTest\\DeserializeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

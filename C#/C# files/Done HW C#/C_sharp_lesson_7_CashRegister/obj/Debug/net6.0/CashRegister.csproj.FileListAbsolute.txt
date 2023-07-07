@@ -1,0 +1,45 @@
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\bin\Debug\net6.0\CashRegister.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\bin\Debug\net6.0\CashRegister.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\bin\Debug\net6.0\CashRegister.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\bin\Debug\net6.0\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\bin\Debug\net6.0\CashRegister.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\refint\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\CashRegister.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\CashRegister\obj\Debug\net6.0\ref\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\refint\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\ref\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\bin\Debug\net6.0\CashRegister.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\refint\CashRegister.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\CashRegister.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\C# files\Done HW C#\C_sharp_lesson_7_CashRegister\obj\Debug\net6.0\ref\CashRegister.dll

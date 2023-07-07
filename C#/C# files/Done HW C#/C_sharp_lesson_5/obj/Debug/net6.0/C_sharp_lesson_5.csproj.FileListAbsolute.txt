@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\bin\Debug\net6.0\C_sharp_lesson_5.exe
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\bin\Debug\net6.0\C_sharp_lesson_5.deps.json
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\bin\Debug\net6.0\C_sharp_lesson_5.runtimeconfig.json
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\bin\Debug\net6.0\C_sharp_lesson_5.dll
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\bin\Debug\net6.0\C_sharp_lesson_5.pdb
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.dll
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\refint\C_sharp_lesson_5.dll
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.pdb
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\C_sharp_lesson_5.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#_mystat\C# files\C_sharp_lesson_5\obj\Debug\net6.0\ref\C_sharp_lesson_5.dll
