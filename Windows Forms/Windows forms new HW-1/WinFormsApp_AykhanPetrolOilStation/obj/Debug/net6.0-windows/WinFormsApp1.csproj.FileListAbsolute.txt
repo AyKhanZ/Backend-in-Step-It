@@ -1,0 +1,54 @@
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms HW-1\BestOil_HW-1_WinForms - Copy\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\HP\Desktop\WinFormsAppPetrolStation\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms new HW-1\WinFormsApp_AykhanPetrolOilStation\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\bin\Debug\net6.0-windows\ToDoList.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\bin\Debug\net6.0-windows\ToDoList.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\bin\Debug\net6.0-windows\ToDoList.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\bin\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.Form1.resources
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\refint\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList\obj\Debug\net6.0-windows\ref\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\bin\Debug\net6.0-windows\ToDoList.exe
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\bin\Debug\net6.0-windows\ToDoList.deps.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\bin\Debug\net6.0-windows\ToDoList.runtimeconfig.json
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\bin\Debug\net6.0-windows\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\bin\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.Form1.resources
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\refint\ToDoList.dll
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.pdb
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programming Step IT\C#\Windows forms\Windows forms HW Tasks\Windows forms On Lesson - 1 ELvin\ToDoList MVP\obj\Debug\net6.0-windows\ref\ToDoList.dll
