@@ -1,0 +1,8 @@
+﻿using System.Collections.Generic;
+namespace EFHW1_CRUDWpfApp.Data.Models;
+public class Group
+{
+    public int Id { get; set; }
+    public string Name { get; set; } = null!;
+    public ICollection<Student> Students { get; set; }
+}

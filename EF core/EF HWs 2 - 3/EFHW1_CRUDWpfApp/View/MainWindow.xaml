@@ -1,0 +1,46 @@
+﻿<Window x:Class="EFHW1_CRUDWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EFHW1_CRUDWpfApp"
+        mc:Ignorable="d"
+        Title="CRUD Application" Height="450" Width="820" Background="#FF1E0C3D">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="Name" Width="100" Height="40" HorizontalAlignment="Left" FontWeight="Bold" FontSize="22" Foreground="White" />
+            <TextBlock Grid.Row="1" Text="Surname" Width="100" Height="40" HorizontalAlignment="Left" FontWeight="Bold" FontSize="22" Foreground="White"/>
+            <TextBlock Grid.Row="2" Text="GroupId" Width="100" Height="40" HorizontalAlignment="Left" FontWeight="Bold" FontSize="22" Foreground="White"/>
+
+            <TextBox Grid.Row="0" Name = "Textbox_Name" HorizontalAlignment="Left" Height="35" Margin="180,0,0,0" VerticalAlignment="Center" Width="150" FontSize="22"/>
+            <TextBox Grid.Row="1" Name = "Textbox_Surname" HorizontalAlignment="Left" Height="35" Margin="180,0,0,0" VerticalAlignment="Center" Width="150" FontSize="22"/>
+            <ComboBox Grid.Row="2" DisplayMemberPath="Id" Name = "ComboBox_GroupId" HorizontalAlignment="Left" Height="35" Margin="180,0,0,0" VerticalAlignment="Center" Width="150" FontSize="22"/>
+
+            <Button Name = "Btn_Create" Grid.Row="3" Margin="120,10,120,10" Content="Create" Click="Btn_Create_Click" Background="#FF2F52FC" BorderBrush="White" FontWeight="Bold" Foreground="White" FontSize="20"/>
+            <Button Name = "Btn_Update" Grid.Row="4" Margin="120,10,120,10" Content="Update" Click="Btn_Update_Click" BorderBrush="White" Background="#FF56FF00" FontWeight="Bold" Foreground="Black" FontSize="20"/>
+            <Button Name = "Btn_Delete" Grid.Row="5" Margin="120,10,120,10" Content="Delete" Click="Btn_Delete_Click" FontWeight="Bold" Background="#FFFF2929" BorderBrush="White" FontSize="20"/>
+        </Grid>
+        <DataGrid Grid.Column="1" DisplayMemberPath="Name" Name="Info_Grid" SelectionMode="Extended" AutoGenerateColumns="False" Background="#FF7F36F9" BorderBrush="White" FontSize="14">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" Header="Id" Width="50"/>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="80"/>
+                <DataGridTextColumn Binding="{Binding Surname}" Header="Surname" Width="90"/>
+                <DataGridTextColumn Binding="{Binding Group.Name}" Header="Group Name" Width="90"/>
+                <DataGridTextColumn Binding="{Binding Group.Id}" Header="Group Id" Width="70"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
